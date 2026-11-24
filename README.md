@@ -5,6 +5,16 @@
 ## Tải APK
 [`Bee_Rubik.apk`](Bee_Rubik.apk) — cho phép "cài ứng dụng không rõ nguồn gốc" rồi cài (Android 5.0+).
 
+## Ảnh demo
+<p>
+  <img src="screenshots/demo-welcome-photo.webp" width="270" alt="Màn hình khởi động">
+  <img src="screenshots/demo-scan-photo.webp" width="270" alt="Quét rubik thật">
+</p>
+<p>
+  <img src="screenshots/scan.webp" width="270" alt="Màn hình scan">
+  <img src="screenshots/solve.webp" width="270" alt="Hướng dẫn giải từng bước">
+</p>
+
 ## Tính năng
 - Quét từng mặt với lưới 3×3, nhận diện màu trực tiếp, chạm ô để sửa màu.
 - Hình 3D xoay + mũi tên chỉ cách lật rubik; tự chuyển mặt sau khi chụp.
